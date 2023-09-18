@@ -9,6 +9,7 @@ During my professional experiece I've been involved in many activities involing 
 Here I can publish part of my work in all of this.
 
 Some Power BI dashboards I designed can be found here:
+
 Altough I was not able to document it, I also have solid experience using Tableau.
 I'm starting to create dashboards using Python as well, and putting some of the work in this repository:
 
