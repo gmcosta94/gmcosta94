@@ -4,7 +4,7 @@
 
 Meu nome é Gabriel e atualmente trabalho como um Analista de Dados e de Inteligência de Negócios.
 
-Ao longo da minha vida profissional, estive envolvido em várias atividades na área de dados: extração, transformação, organização e análise, bem como na criação de vários tipos de relatórios.
+Ao longo da minha vida profissional, estive envolvido em várias atividades na área de dados: extração, transformação, organização e análise, bem como na criação de vários tipos de dashboards e relatórios.
 
 Aqui é onde publico parte do meu trabalho em tudo isso.
 
@@ -30,7 +30,7 @@ E sinta-se à vontade para me contactar em gm.costa94@gmail.com
 
  My name is Gabriel and I currently work as a Business Inteligence Developer and Data Analyst.
 
-During my professional experiece I've been involved in many activities involing Data: extracting, transforming, combining, analyzing and creating various types of reports.
+During my professional experiece I've been involved in many activities involing Data: extracting, transforming, combining, analyzing and creating various types of dashboards and reports.
 
 Here I can publish part of my work in all of this.
 
