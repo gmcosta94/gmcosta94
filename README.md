@@ -12,7 +12,7 @@ Uma das minhas especialidades é o Power BI, e eu também criei um [Portfólio c
 
 Também tive 2 anos de experiência usando o Tableau.
 
-Aqui no Github ficarão meus projetos envolvendo análise de dados em Python e Ciência de Dados, neste repositório.
+Aqui no Github ficarão meus projetos envolvendo análise de dados em Python e Ciência de Dados, [neste repositório](https://github.com/gmcosta94/data_science).
 
 Também estou criando um repositório onde coloco alguns dos trabalhos que fiz em SQL.
 
@@ -38,7 +38,7 @@ One of my specialities is Power BI, and I've also created a [Portfolio with some
 
 I also have 2 years of solid experience using Tableau.  
 
-Here on Github is where I'm putting my projects envolving Data Analysis with Python and Data Science, on this repository.
+Here on Github is where I'm putting my projects envolving Data Analysis with Python and Data Science, [on this repository](https://github.com/gmcosta94/data_science).
 
 I'm also creating a repository where I'll put some of the work I've made on SQL.
 
